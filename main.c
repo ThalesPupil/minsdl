@@ -2,5 +2,5 @@
 
 int main()
 {
-	printf("minsdl");
+	printf("minsdl cambio");
 }
